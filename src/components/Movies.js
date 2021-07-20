@@ -34,6 +34,7 @@ const Movies = () =>{
 
               <h1>Movies List</h1> 
               <h3>Add a Movie</h3> 
+              <p>small try</p>
               <table>
                   <tr>
                       <td>
