@@ -38,13 +38,6 @@ const Movies = () =>{
 
                 <thead>
 
-<<<<<<< Updated upstream
-              <h1>Movies List</h1> 
-              <h3>Add a Movie</h3> 
-              <p>small try</p>
-              <table>
-=======
->>>>>>> Stashed changes
                   <tr>
                       <td>
                           <input type="text" required="required" placeholder="Movie Title" value={title} onChange={e=>setTitle(e.target.value)}/>
